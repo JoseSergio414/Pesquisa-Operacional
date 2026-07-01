@@ -27,6 +27,8 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 
 ### 2. Minimização de Custos Logísticos (Problema do Transporte)
 * **Objetivo:** Definir a rota mais barata para distribuir produtos de múltiplas fábricas para múltiplos centros de distribuição, atendendo à demanda exata de cada cliente.
+<img width="982" height="754" alt="image" src="https://github.com/user-attachments/assets/fb72bdbf-beb5-46fc-9908-90bfd02b225e" />
+
 * **Arquivo:** `[Nome_do_seu_arquivo_de_transporte.xlsx]`
 * **Ferramenta:** MS Excel (Suplemento Solver).
 
