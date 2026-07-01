@@ -1,0 +1,94 @@
+T6 - PO - 13mai2026
+Data de conclusão 17 de maio de 2026 às 23:59
+Instruções
+Resolver os exercícios abaixo utilizando o software Lindo e Excel:
+
+
+
+1-Considere o seguinte problema de programação linear: 
+
+Maximize: Z = 3x1 + 7x2 + 5x3 
+
+Sujeito a: 
+
+ 
+
+x1 + x2 + x3≤5 
+
+2x1 + 3x2 + x3≤10 
+
+x1≥0 
+
+x2≥0 
+
+x3≥0 
+
+Qual é a solução ótima do problema de programação linear apresentado? 
+
+ 
+
+2-Considere o seguinte problema de programação linear: 
+
+Maximize: Z = x1 + 4x2 
+
+Sujeito a: 
+
+2x1 + 4x2≤20 
+
+−x1 + 2x2≤8 
+
+x1 + x2≤5 
+
+x1≥0 
+
+x2≥0 
+
+Qual é o valor ótimo da função objetivo? 
+
+ 
+
+3-Uma empresa deseja programar a produção de um produto e requer o uso de 2 recursos: mão-de-obra e material. Ela está considerando a fabricação de 3 modelos de acordo com os dados da tabela que segue, sendo que a disponibilidade diária de mão-de-obra é 150 horas, e o suprimento de material é 200 kg/dia. 
+
+ 
+
+ 
+
+Modelo 
+
+ 
+
+A 
+
+B 
+
+C 
+
+Mão de obra (horas/unidade) 
+
+7 
+
+3 
+
+6 
+
+Material (kg/unidade) 
+
+4 
+
+4 
+
+5 
+
+Lucro ($/unidade) 
+
+4 
+
+2 
+
+3 
+
+ 
+
+Calcule o valor máximo de Lucro para estas condições; 
+
+Meu trabalho

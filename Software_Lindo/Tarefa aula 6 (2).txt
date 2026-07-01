@@ -1,0 +1,52 @@
+Tarefa aula 6 (2)
+
+Max x1 + 4x2 
+
+subject to
+
+2x1 + 4x2<=20 
+
+-x1 + 2x2<=8 
+
+x1 + x2<=5 
+
+x1>=0 
+
+x2>=0 
+
+end
+
+gin 2
+
+
+ LP OPTIMUM FOUND AT STEP      9
+ OBJECTIVE VALUE =   18.0000000
+
+ SET       X1 TO >=     1 AT    1, BND=   17.00     TWIN=  16.00         14
+
+ NEW INTEGER SOLUTION OF    17.0000000     AT BRANCH      2 PIVOT      14
+ BOUND ON OPTIMUM:  17.00000
+ DELETE       X1 AT LEVEL     1
+ ENUMERATION COMPLETE. BRANCHES=     2 PIVOTS=      14
+
+ LAST INTEGER SOLUTION IS THE BEST FOUND
+ RE-INSTALLING BEST SOLUTION...
+
+        OBJECTIVE FUNCTION VALUE
+
+        1)      17.00000
+
+  VARIABLE        VALUE          REDUCED COST
+        X1         1.000000         -1.000000
+        X2         4.000000         -4.000000
+
+
+       ROW   SLACK OR SURPLUS     DUAL PRICES
+        2)         2.000000          0.000000
+        3)         1.000000          0.000000
+        4)         0.000000          0.000000
+        5)         1.000000          0.000000
+        6)         4.000000          0.000000
+
+ NO. ITERATIONS=      14
+ BRANCHES=    2 DETERM.=  1.000E    0

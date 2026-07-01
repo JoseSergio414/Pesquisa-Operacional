@@ -1,0 +1,534 @@
+Max 10x1+7x2
+
+subject to
+
+20x1+15x2<=320
+28x1+6x2<=250
+
+end
+
+gin 2
+
+
+
+ LP OPTIMUM FOUND AT STEP      2
+ OBJECTIVE VALUE =   153.399994
+
+ SET       X1 TO >=     7 AT    1, BND=   133.0     TWIN=  153.3          9
+
+ NEW INTEGER SOLUTION OF    133.000000     AT BRANCH      1 PIVOT       9
+ BOUND ON OPTIMUM:  153.3333
+ FLIP       X1 TO <=         6 AT    1 WITH BND=    153.33333
+ SET       X2 TO <=    13 AT    2, BND=   151.0     TWIN=  153.0         12
+
+ NEW INTEGER SOLUTION OF    151.000000     AT BRANCH      2 PIVOT      12
+ BOUND ON OPTIMUM:  153.0000
+ FLIP       X2 TO >=        14 AT    2 WITH BND=    153.00000
+ SET       X1 TO <=     5 AT    3, BND=   152.7     TWIN=-0.1000E+31     15
+ SET       X2 TO >=    15 AT    4, BND=   152.5     TWIN=  148.0         17
+ SET       X1 TO <=     4 AT    5, BND=   152.0     TWIN=-0.1000E+31     20
+
+ NEW INTEGER SOLUTION OF    152.000000     AT BRANCH      5 PIVOT      20
+ BOUND ON OPTIMUM:  152.0000
+ DELETE       X1 AT LEVEL     5
+ DELETE       X2 AT LEVEL     4
+ DELETE       X1 AT LEVEL     3
+ DELETE       X2 AT LEVEL     2
+ DELETE       X1 AT LEVEL     1
+ ENUMERATION COMPLETE. BRANCHES=     5 PIVOTS=      20
+
+ LAST INTEGER SOLUTION IS THE BEST FOUND
+ RE-INSTALLING BEST SOLUTION...
+
+        OBJECTIVE FUNCTION VALUE
+
+        1)      152.0000
+
+  VARIABLE        VALUE          REDUCED COST
+        X1         4.000000        -10.000000
+        X2        16.000000         -7.000000
+
+
+       ROW   SLACK OR SURPLUS     DUAL PRICES
+        2)         0.000000          0.000000
+        3)        42.000000          0.000000
+
+ NO. ITERATIONS=      20
+ BRANCHES=    5 DETERM.=  1.000E    0
+
+ LP OPTIMUM FOUND AT STEP      2
+ OBJECTIVE VALUE =   153.399994
+
+ SET       X1 TO >=     7 AT    1, BND=   133.0     TWIN=  153.3          9
+
+ NEW INTEGER SOLUTION OF    133.000000     AT BRANCH      1 PIVOT       9
+ BOUND ON OPTIMUM:  153.3333
+ FLIP       X1 TO <=         6 AT    1 WITH BND=    153.33333
+ SET       X2 TO <=    13 AT    2, BND=   151.0     TWIN=  153.0         12
+
+ NEW INTEGER SOLUTION OF    151.000000     AT BRANCH      2 PIVOT      12
+ BOUND ON OPTIMUM:  153.0000
+ FLIP       X2 TO >=        14 AT    2 WITH BND=    153.00000
+ SET       X1 TO <=     5 AT    3, BND=   152.7     TWIN=-0.1000E+31     15
+ SET       X2 TO >=    15 AT    4, BND=   152.5     TWIN=  148.0         17
+ SET       X1 TO <=     4 AT    5, BND=   152.0     TWIN=-0.1000E+31     20
+
+ NEW INTEGER SOLUTION OF    152.000000     AT BRANCH      5 PIVOT      20
+ BOUND ON OPTIMUM:  152.0000
+ DELETE       X1 AT LEVEL     5
+ DELETE       X2 AT LEVEL     4
+ DELETE       X1 AT LEVEL     3
+ DELETE       X2 AT LEVEL     2
+ DELETE       X1 AT LEVEL     1
+ ENUMERATION COMPLETE. BRANCHES=     5 PIVOTS=      20
+
+ LAST INTEGER SOLUTION IS THE BEST FOUND
+ RE-INSTALLING BEST SOLUTION...
+
+        OBJECTIVE FUNCTION VALUE
+
+        1)      152.0000
+
+  VARIABLE        VALUE          REDUCED COST
+        X1         4.000000        -10.000000
+        X2        16.000000         -7.000000
+
+
+       ROW   SLACK OR SURPLUS     DUAL PRICES
+        2)         0.000000          0.000000
+        3)        42.000000          0.000000
+
+ NO. ITERATIONS=      20
+ BRANCHES=    5 DETERM.=  1.000E    0
+
+ LP OPTIMUM FOUND AT STEP      4
+ OBJECTIVE VALUE =   186.500000
+
+ FIX ALL VARS.(    2)  WITH RC >   17.6000
+ SET      X32 TO >=     5 AT    1, BND=  -194.0     TWIN= -197.1         17
+
+ NEW INTEGER SOLUTION OF    194.000000     AT BRANCH      1 PIVOT      17
+ BOUND ON OPTIMUM:  194.0000
+ DELETE      X32 AT LEVEL     1
+ ENUMERATION COMPLETE. BRANCHES=     1 PIVOTS=      17
+
+ LAST INTEGER SOLUTION IS THE BEST FOUND
+ RE-INSTALLING BEST SOLUTION...
+
+        OBJECTIVE FUNCTION VALUE
+
+        1)      194.0000
+
+  VARIABLE        VALUE          REDUCED COST
+       X11         3.000000         23.000000
+       X12         0.000000         58.000000
+       X21         1.000000         15.000000
+       X22         1.000000         30.000000
+       X31         0.000000         60.000000
+       X32         5.000000         16.000000
+
+
+       ROW   SLACK OR SURPLUS     DUAL PRICES
+        2)         0.000000          0.000000
+        3)         1.000000          0.000000
+        4)         0.000000          0.000000
+        5)         7.000000          0.000000
+        6)         2.000000          0.000000
+        7)         3.000000          0.000000
+        8)         0.000000          0.000000
+        9)         1.000000          0.000000
+       10)         1.000000          0.000000
+       11)         0.000000          0.000000
+       12)         5.000000          0.000000
+
+ NO. ITERATIONS=      17
+ BRANCHES=    1 DETERM.=  1.000E    0
+
+ LP OPTIMUM FOUND AT STEP      7
+
+        OBJECTIVE FUNCTION VALUE
+
+        1)      3200.000
+
+  VARIABLE        VALUE          REDUCED COST
+       X11         0.000000          6.000000
+       X12         0.000000          3.000000
+       X13         0.000000          0.000000
+       X14        80.000000          0.000000
+       X15       220.000000          0.000000
+       X21         0.000000          4.000000
+       X22         0.000000          2.000000
+       X23       180.000000          0.000000
+       X24        80.000000          0.000000
+       X25         0.000000          4.000000
+       X31       180.000000          0.000000
+       X32        80.000000          0.000000
+       X33        20.000000          0.000000
+       X34         0.000000          1.000000
+       X35         0.000000          6.000000
+
+
+       ROW   SLACK OR SURPLUS     DUAL PRICES
+        2)        10.000000          0.000000
+        3)         0.000000          2.000000
+        4)         0.000000          1.000000
+        5)         0.000000         -4.000000
+        6)         0.000000         -5.000000
+        7)         0.000000         -6.000000
+        8)         0.000000         -5.000000
+        9)         0.000000         -4.000000
+
+ NO. ITERATIONS=       7
+
+
+ LP OPTIMUM FOUND AT STEP      1
+
+        OBJECTIVE FUNCTION VALUE
+
+        1)      3200.000
+
+  VARIABLE        VALUE          REDUCED COST
+       X11         0.000000          6.000000
+       X12         0.000000          3.000000
+       X13         0.000000          0.000000
+       X14        80.000000          0.000000
+       X15       220.000000          0.000000
+       X21         0.000000          4.000000
+       X22         0.000000          2.000000
+       X23       180.000000          0.000000
+       X24        80.000000          0.000000
+       X25         0.000000          4.000000
+       X31       180.000000          0.000000
+       X32        80.000000          0.000000
+       X33        20.000000          0.000000
+       X34         0.000000          1.000000
+       X35         0.000000          6.000000
+
+
+       ROW   SLACK OR SURPLUS     DUAL PRICES
+        2)         0.000000         -4.000000
+        3)         0.000000         -5.000000
+        4)         0.000000         -6.000000
+        5)         0.000000         -5.000000
+        6)         0.000000         -4.000000
+        7)        10.000000          0.000000
+        8)         0.000000          2.000000
+        9)         0.000000          1.000000
+
+ NO. ITERATIONS=       1
+
+
+
+
+ LP OPTIMUM FOUND AT STEP      8
+
+        OBJECTIVE FUNCTION VALUE
+
+        1)      3200.000
+
+  VARIABLE        VALUE          REDUCED COST
+       X11         0.000000          6.000000
+       X12         0.000000          3.000000
+       X13        80.000000          0.000000
+       X14         0.000000          0.000000
+       X15       220.000000          0.000000
+       X21         0.000000          4.000000
+       X22         0.000000          2.000000
+       X23       100.000000          0.000000
+       X24       160.000000          0.000000
+       X25         0.000000          4.000000
+       X31       180.000000          0.000000
+       X32        80.000000          0.000000
+       X33        20.000000          0.000000
+       X34         0.000000          1.000000
+       X35         0.000000          6.000000
+
+
+       ROW   SLACK OR SURPLUS     DUAL PRICES
+        2)         0.000000         -4.000000
+        3)         0.000000         -5.000000
+        4)         0.000000         -6.000000
+        5)         0.000000         -5.000000
+        6)         0.000000         -4.000000
+        7)        10.000000          0.000000
+        8)         0.000000          2.000000
+        9)         0.000000          1.000000
+
+ NO. ITERATIONS=       8
+
+
+ LP OPTIMUM FOUND AT STEP      0
+ OBJECTIVE VALUE =   3200.00000
+
+
+ NEW INTEGER SOLUTION OF    3200.00000     AT BRANCH      0 PIVOT       0
+ BOUND ON OPTIMUM:  3200.000
+ ENUMERATION COMPLETE. BRANCHES=     0 PIVOTS=       0
+
+ LAST INTEGER SOLUTION IS THE BEST FOUND
+ RE-INSTALLING BEST SOLUTION...
+
+        OBJECTIVE FUNCTION VALUE
+
+        1)      3200.000
+
+  VARIABLE        VALUE          REDUCED COST
+       X11         0.000000         10.000000
+       X12         0.000000          8.000000
+       X13        80.000000          6.000000
+       X14         0.000000          5.000000
+       X15       220.000000          4.000000
+       X21         0.000000          6.000000
+       X22         0.000000          5.000000
+       X23       100.000000          4.000000
+       X24       160.000000          3.000000
+       X25         0.000000          6.000000
+       X31       180.000000          3.000000
+       X32        80.000000          4.000000
+       X33        20.000000          5.000000
+       X34         0.000000          5.000000
+       X35         0.000000          9.000000
+
+
+       ROW   SLACK OR SURPLUS     DUAL PRICES
+        2)         0.000000          0.000000
+        3)         0.000000          0.000000
+        4)         0.000000          0.000000
+        5)         0.000000          0.000000
+        6)         0.000000          0.000000
+        7)        10.000000          0.000000
+        8)         0.000000          0.000000
+        9)         0.000000          0.000000
+
+ NO. ITERATIONS=       0
+ BRANCHES=    0 DETERM.=  1.000E    0
+
+ LP OPTIMUM FOUND AT STEP      7
+ OBJECTIVE VALUE =   3200.00000
+
+
+ NEW INTEGER SOLUTION OF    3200.00000     AT BRANCH      0 PIVOT       7
+ BOUND ON OPTIMUM:  3200.000
+ ENUMERATION COMPLETE. BRANCHES=     0 PIVOTS=       7
+
+ LAST INTEGER SOLUTION IS THE BEST FOUND
+ RE-INSTALLING BEST SOLUTION...
+
+        OBJECTIVE FUNCTION VALUE
+
+        1)      3200.000
+
+  VARIABLE        VALUE          REDUCED COST
+       X11         0.000000         10.000000
+       X12         0.000000          8.000000
+       X13         0.000000          6.000000
+       X14        80.000000          5.000000
+       X15       220.000000          4.000000
+       X21         0.000000          6.000000
+       X22         0.000000          5.000000
+       X23       180.000000          4.000000
+       X24        80.000000          3.000000
+       X25         0.000000          6.000000
+       X31       180.000000          3.000000
+       X32        80.000000          4.000000
+       X33        20.000000          5.000000
+       X34         0.000000          5.000000
+       X35         0.000000          9.000000
+
+
+       ROW   SLACK OR SURPLUS     DUAL PRICES
+        2)         0.000000          0.000000
+        3)         0.000000          0.000000
+        4)         0.000000          0.000000
+        5)         0.000000          0.000000
+        6)         0.000000          0.000000
+        7)        10.000000          0.000000
+        8)         0.000000          0.000000
+        9)         0.000000          0.000000
+       10)         0.000000          0.000000
+       11)         0.000000          0.000000
+       12)         0.000000          0.000000
+       13)        80.000000          0.000000
+       14)       220.000000          0.000000
+       15)         0.000000          0.000000
+       16)         0.000000          0.000000
+       17)       180.000000          0.000000
+       18)        80.000000          0.000000
+       19)         0.000000          0.000000
+       20)       180.000000          0.000000
+       21)        80.000000          0.000000
+       22)        20.000000          0.000000
+       23)         0.000000          0.000000
+       24)         0.000000          0.000000
+
+ NO. ITERATIONS=       7
+ BRANCHES=    0 DETERM.=  1.000E    0
+
+ LP OPTIMUM FOUND AT STEP     14
+ OBJECTIVE VALUE =   3200.00000
+
+ FIX ALL VARS.(    7)  WITH RC >   1.00000
+
+ NEW INTEGER SOLUTION OF    3200.00000     AT BRANCH      0 PIVOT      14
+ BOUND ON OPTIMUM:  3200.000
+ ENUMERATION COMPLETE. BRANCHES=     0 PIVOTS=      14
+
+ LAST INTEGER SOLUTION IS THE BEST FOUND
+ RE-INSTALLING BEST SOLUTION...
+
+        OBJECTIVE FUNCTION VALUE
+
+        1)      3200.000
+
+  VARIABLE        VALUE          REDUCED COST
+       X11         0.000000         10.000000
+       X12         0.000000          8.000000
+       X13         0.000000          6.000000
+       X14        80.000000          5.000000
+       X15       220.000000          4.000000
+       X21         0.000000          6.000000
+       X22         0.000000          5.000000
+       X23       180.000000          4.000000
+       X24        80.000000          3.000000
+       X25         0.000000          6.000000
+       X31       180.000000          3.000000
+       X32        80.000000          4.000000
+       X33        20.000000          5.000000
+       X34         0.000000          5.000000
+       X35         0.000000          9.000000
+
+
+       ROW   SLACK OR SURPLUS     DUAL PRICES
+        2)         0.000000          0.000000
+        3)         0.000000          0.000000
+        4)         0.000000          0.000000
+        5)         0.000000          0.000000
+        6)         0.000000          0.000000
+        7)        10.000000          0.000000
+        8)         0.000000          0.000000
+        9)         0.000000          0.000000
+       10)         0.000000          0.000000
+       11)         0.000000          0.000000
+       12)         0.000000          0.000000
+       13)        80.000000          0.000000
+       14)       220.000000          0.000000
+       15)         0.000000          0.000000
+       16)         0.000000          0.000000
+       17)       180.000000          0.000000
+       18)        80.000000          0.000000
+       19)         0.000000          0.000000
+       20)       180.000000          0.000000
+       21)        80.000000          0.000000
+       22)        20.000000          0.000000
+       23)         0.000000          0.000000
+       24)         0.000000          0.000000
+
+ NO. ITERATIONS=      14
+ BRANCHES=    0 DETERM.=  1.000E    0
+
+ LP OPTIMUM FOUND AT STEP     21
+ OBJECTIVE VALUE =   3200.00000
+
+ FIX ALL VARS.(    7)  WITH RC >   1.00000
+
+ NEW INTEGER SOLUTION OF    3200.00000     AT BRANCH      0 PIVOT      21
+ BOUND ON OPTIMUM:  3200.000
+ ENUMERATION COMPLETE. BRANCHES=     0 PIVOTS=      21
+
+ LAST INTEGER SOLUTION IS THE BEST FOUND
+ RE-INSTALLING BEST SOLUTION...
+
+        OBJECTIVE FUNCTION VALUE
+
+        1)      3200.000
+
+  VARIABLE        VALUE          REDUCED COST
+       X11         0.000000         10.000000
+       X12         0.000000          8.000000
+       X13         0.000000          6.000000
+       X14        80.000000          5.000000
+       X15       220.000000          4.000000
+       X21         0.000000          6.000000
+       X22         0.000000          5.000000
+       X23       180.000000          4.000000
+       X24        80.000000          3.000000
+       X25         0.000000          6.000000
+       X31       180.000000          3.000000
+       X32        80.000000          4.000000
+       X33        20.000000          5.000000
+       X34         0.000000          5.000000
+       X35         0.000000          9.000000
+
+
+       ROW   SLACK OR SURPLUS     DUAL PRICES
+        2)         0.000000          0.000000
+        3)         0.000000          0.000000
+        4)         0.000000          0.000000
+        5)         0.000000          0.000000
+        6)         0.000000          0.000000
+        7)        10.000000          0.000000
+        8)         0.000000          0.000000
+        9)         0.000000          0.000000
+       10)         0.000000          0.000000
+       11)         0.000000          0.000000
+       12)         0.000000          0.000000
+       13)        80.000000          0.000000
+       14)       220.000000          0.000000
+       15)         0.000000          0.000000
+       16)         0.000000          0.000000
+       17)       180.000000          0.000000
+       18)        80.000000          0.000000
+       19)         0.000000          0.000000
+       20)       180.000000          0.000000
+       21)        80.000000          0.000000
+       22)        20.000000          0.000000
+       23)         0.000000          0.000000
+       24)         0.000000          0.000000
+
+ NO. ITERATIONS=      21
+ BRANCHES=    0 DETERM.=  1.000E    0
+
+ LP OPTIMUM FOUND AT STEP      2
+ OBJECTIVE VALUE =   153.399994
+
+ SET       X1 TO >=     7 AT    1, BND=   133.0     TWIN=  153.3          9
+
+ NEW INTEGER SOLUTION OF    133.000000     AT BRANCH      1 PIVOT       9
+ BOUND ON OPTIMUM:  153.3333
+ FLIP       X1 TO <=         6 AT    1 WITH BND=    153.33333
+ SET       X2 TO <=    13 AT    2, BND=   151.0     TWIN=  153.0         12
+
+ NEW INTEGER SOLUTION OF    151.000000     AT BRANCH      2 PIVOT      12
+ BOUND ON OPTIMUM:  153.0000
+ FLIP       X2 TO >=        14 AT    2 WITH BND=    153.00000
+ SET       X1 TO <=     5 AT    3, BND=   152.7     TWIN=-0.1000E+31     15
+ SET       X2 TO >=    15 AT    4, BND=   152.5     TWIN=  148.0         17
+ SET       X1 TO <=     4 AT    5, BND=   152.0     TWIN=-0.1000E+31     20
+
+ NEW INTEGER SOLUTION OF    152.000000     AT BRANCH      5 PIVOT      20
+ BOUND ON OPTIMUM:  152.0000
+ DELETE       X1 AT LEVEL     5
+ DELETE       X2 AT LEVEL     4
+ DELETE       X1 AT LEVEL     3
+ DELETE       X2 AT LEVEL     2
+ DELETE       X1 AT LEVEL     1
+ ENUMERATION COMPLETE. BRANCHES=     5 PIVOTS=      20
+
+ LAST INTEGER SOLUTION IS THE BEST FOUND
+ RE-INSTALLING BEST SOLUTION...
+
+        OBJECTIVE FUNCTION VALUE
+
+        1)      152.0000
+
+  VARIABLE        VALUE          REDUCED COST
+        X1         4.000000        -10.000000
+        X2        16.000000         -7.000000
+
+
+       ROW   SLACK OR SURPLUS     DUAL PRICES
+        2)         0.000000          0.000000
+        3)        42.000000          0.000000
+
+ NO. ITERATIONS=      20
+ BRANCHES=    5 DETERM.=  1.000E    0

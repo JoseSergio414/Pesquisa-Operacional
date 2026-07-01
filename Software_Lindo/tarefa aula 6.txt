@@ -1,0 +1,55 @@
+tarefa aula 6 (1)
+
+Max 3x1 + 7x2 + 5x3
+
+subject to
+
+xx1 + x2 + x3<=5 
+
+2x1 + 3x2 + x3<=10 
+
+x1>=0 
+
+x2>=0 
+
+x3>=0 
+
+end
+
+gin 3
+
+
+
+ LP OPTIMUM FOUND AT STEP      3
+ OBJECTIVE VALUE =   32.5000000
+
+ SET       X2 TO <=     0 AT    1, BND=   31.00     TWIN=  31.50         13
+
+ NEW INTEGER SOLUTION OF    31.0000000     AT BRANCH      1 PIVOT      13
+ BOUND ON OPTIMUM:  31.50000
+ DELETE       X2 AT LEVEL     1
+ ENUMERATION COMPLETE. BRANCHES=     1 PIVOTS=      13
+
+ LAST INTEGER SOLUTION IS THE BEST FOUND
+ RE-INSTALLING BEST SOLUTION...
+
+        OBJECTIVE FUNCTION VALUE
+
+        1)      31.00000
+
+  VARIABLE        VALUE          REDUCED COST
+        X1         2.000000         -3.000000
+        X2         0.000000         -7.000000
+        X3         5.000000         -5.000000
+       XX1         0.000000          0.000000
+
+
+       ROW   SLACK OR SURPLUS     DUAL PRICES
+        2)         0.000000          0.000000
+        3)         1.000000          0.000000
+        4)         2.000000          0.000000
+        5)         0.000000          0.000000
+        6)         5.000000          0.000000
+
+ NO. ITERATIONS=      13
+ BRANCHES=    1 DETERM.=  1.000E    0

@@ -1,0 +1,40 @@
+MAX 3x1 + 7x2 + 5x3
+SUBJECT TO
+x1 + x2 + x3 <= 5
+2x1 + 3x2 + x3 <= 10
+END
+
+
+ LP OPTIMUM FOUND AT STEP      2
+
+        OBJECTIVE FUNCTION VALUE
+
+        1)      30.00000
+
+  VARIABLE        VALUE          REDUCED COST
+        X1         0.000000          3.000000
+        X2         2.500000          0.000000
+        X3         2.500000          0.000000
+
+
+       ROW   SLACK OR SURPLUS     DUAL PRICES
+        2)         0.000000          4.000000
+        3)         0.000000          1.000000
+
+ NO. ITERATIONS=       2
+
+
+ RANGES IN WHICH THE BASIS IS UNCHANGED:
+
+                           OBJ COEFFICIENT RANGES
+ VARIABLE         CURRENT        ALLOWABLE        ALLOWABLE
+                   COEF          INCREASE         DECREASE
+       X1        3.000000         3.000000         INFINITY
+       X2        7.000000         8.000000         2.000000
+       X3        5.000000         2.000000         2.666667
+
+                           RIGHTHAND SIDE RANGES
+      ROW         CURRENT        ALLOWABLE        ALLOWABLE
+                    RHS          INCREASE         DECREASE
+        2        5.000000         5.000000         1.666667
+        3       10.000000         5.000000         5.000000
