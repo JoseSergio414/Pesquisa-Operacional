@@ -24,12 +24,12 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 * **Objetivo:** Determinar a quantidade ideal de produtos a serem fabricados para obter o maior lucro possível, respeitando o limite de horas-máquina e matéria-prima disponíveis.
 * **Arquivo:** `[Nome_do_seu_arquivo_de_mix.xlsx]`
 * **Ferramenta:** MS Excel (Suplemento Solver).
-* **[Atividades - Apresentação em grupo, Introdução e Fórmulas Básicas, Tabelas Dinâmicas e Gráficos](./Módulo_01_Excel/)**
+
 ### 2. Minimização de Custos Logísticos (Problema do Transporte)
 * **Objetivo:** Definir a rota mais barata para distribuir produtos de múltiplas fábricas para múltiplos centros de distribuição, atendendo à demanda exata de cada cliente.
 <img width="982" height="754" alt="image" src="https://github.com/user-attachments/assets/fb72bdbf-beb5-46fc-9908-90bfd02b225e" />
 
-* **Arquivo:** [[Minimização](./Planilhas_Excel/AULA_4.xlsx)
+* **Arquivo:** [[Minimização](./Planilhas_Excel/AULA_4.xlsx)]
 * **Ferramenta:** MS Excel (Suplemento Solver).
 
 ### 3. [Adicione outro problema que você resolveu, ex: Problema da Dieta / Alocação de Máquinas]
