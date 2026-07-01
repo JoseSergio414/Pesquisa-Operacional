@@ -41,6 +41,7 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 * **Modelagem Algébrica:** Definição clara de Variáveis de Decisão, Função Objetivo e Restrições.
 * **Microsoft Excel:** Utilização avançada de planilhas para estruturação de dados matriciais.
 * **Solver:** Algoritmo Simplex LP aplicado para resolução de problemas de programação linear e otimização.
+* **Lindo:** (Linear, Interactive, and Discrete Optimizer) é um software voltado para a resolução de problemas de otimização matemática.
 
 ---
 
