@@ -12,7 +12,7 @@
 
 No cenário industrial de alta competitividade, as decisões não podem ser baseadas em intuição. Este repositório documenta a construção de modelos de otimização desenvolvidos durante o curso de **Gestão da Produção Industrial**. 
 
-O objetivo principal destas planilhas e estudos é aplicar técnicas de **Programação Linear** para resolver problemas complexos de chão de fábrica e logística, encontrando a melhor solução possível dadas as restrições de capacidade, tempo e custo.
+O objetivo principal destas planilhas e estudos é aplicar técnicas de **Programação Linear** para resolver problemas complexos do chão de fábrica e logística, encontrando a melhor solução possível, dadas as restrições de capacidade, tempo e custo.
 
 ---
 
