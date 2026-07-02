@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/72e93b7e-4861-49e9-9f82-8fb09b3923b3
+
+
+
+https://github.com/user-attachments/assets/da965a65-1e72-4c4f-ac41-05a8f0f7b872
+
 # 📈 Modelagem e Pesquisa Operacional na Indústria
 
 ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-F2C811?style=for-the-badge)
@@ -60,12 +68,7 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 
 > Vídeo
 
-https://github.com/JoseSergio414/Pesquisa-Operacional/blob/main/Planilhas_Excel/Gravando%202026-07-01%20224459.mp4
-
-
-
-https://github.com/user-attachments/assets/65c06316-00ee-4570-9221-ad4cb77cfa30
-
+https://github.com/user-attachments/assets/ddc91841-f889-4b50-b278-d7f89418122b
 
 ---
 *Projetos desenvolvidos para aplicação prática em Planejamento e Controle da Produção (PCP).*
