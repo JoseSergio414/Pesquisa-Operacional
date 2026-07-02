@@ -31,7 +31,7 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 [![Arquivo](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)
 [![Arquivo](https://img.shields.io/badge/Software_Lindo-000080?style=for-the-badge)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)
 
-* **Ferramenta:** MS Excel (Suplemento Solver).
+* **Ferramenta:** MS Excel (Suplemento Solver), Software (LINDO).
 
 ### 2. Minimização de Custos Logísticos (Problema do Transporte)
 
@@ -44,7 +44,7 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 [![Arquivo](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/AULA_4.xlsx)
 [![Arquivo](https://img.shields.io/badge/Software_Lindo-000080?style=for-the-badge)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)
 
-* **Ferramenta:** MS Excel (Suplemento Solver).
+* **Ferramenta:** MS Excel (Suplemento Solver), Software (LINDO).
 
 ### 3. Modelo de Pesquisa Operacional para Programação de Produção
 
@@ -57,7 +57,7 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 [![Arquivo](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)
 [![Arquivo](https://img.shields.io/badge/Software_Lindo-000080?style=for-the-badge)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)
 
-* **Ferramenta:** MS Excel (Suplemento Solver).
+* **Ferramenta:** MS Excel (Suplemento Solver), Software (LINDO).
   
 ---
 
@@ -66,7 +66,7 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 * **Modelagem Algébrica:** Definição clara de Variáveis de Decisão, Função Objetivo e Restrições.
 * **Microsoft Excel:** Utilização avançada de planilhas para estruturação de dados matriciais.
 * **Solver:** Algoritmo Simplex LP aplicado para resolução de problemas de programação linear e otimização.
-* **Lindo:** (Linear, Interactive, and Discrete Optimizer) é um software voltado para a resolução de problemas de otimização matemática.
+* **Software Lindo:** (Linear, Interactive, and Discrete Optimizer) é um software voltado para a resolução de problemas de otimização matemática.
 
 ---
 
