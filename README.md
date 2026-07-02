@@ -21,18 +21,20 @@ O objetivo principal destas planilhas e estudos é aplicar técnicas de **Progra
 Abaixo estão os principais modelos matemáticos e simuladores construídos neste repositório:
 
 ### 1. Maximização de Lucro (Mix de Produção)
+
 * **Objetivo:** Determinar a quantidade ideal de produtos a serem fabricados para obter o maior lucro possível, respeitando o limite de horas-máquina e matéria-prima disponíveis.
 
 <img width="643" height="761" alt="image" src="https://github.com/user-attachments/assets/92aa6b5a-e05c-468a-8fd7-5f4ff40a7cac" />
 
-* **Arquivo:** [[Maximização](./Planilhas_Excel/AULA_4.xlsx)]
+* **Arquivo:** [[Maximização](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)]
 * **Ferramenta:** MS Excel (Suplemento Solver).
 
 ### 2. Minimização de Custos Logísticos (Problema do Transporte)
+
 * **Objetivo:** Definir a rota mais barata para distribuir produtos de múltiplas fábricas para múltiplos centros de distribuição, atendendo à demanda exata de cada cliente.
 <img width="982" height="754" alt="image" src="https://github.com/user-attachments/assets/fb72bdbf-beb5-46fc-9908-90bfd02b225e" />
 
-* **Arquivo:** [[Minimização](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)]
+* **Arquivo:** [[Minimização](./Planilhas_Excel/AULA_4.xlsx)]
 * **Ferramenta:** MS Excel (Suplemento Solver).
 
 ### 3. [Adicione outro problema que você resolveu, ex: Problema da Dieta / Alocação de Máquinas]
