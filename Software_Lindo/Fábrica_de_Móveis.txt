@@ -1,0 +1,49 @@
+Max 20MXA + 8MXB + 3MXC
+
+subject to
+
+4MXA + 0MXB + 1MXC <= 240
+4MXA + 2MXB + 2MXC <= 320
+3MXA + 4MXB + 0MXC <= 480
+MXA >= 0
+MXB >= 0
+MXC >= 0
+
+end
+
+gin 3
+
+
+
+ LP OPTIMUM FOUND AT STEP      2
+ OBJECTIVE VALUE =   1520.00000
+
+ FIX ALL VARS.(    1)  WITH RC >  0.000000E+00
+
+ NEW INTEGER SOLUTION OF    1520.00000     AT BRANCH      0 PIVOT       2
+ BOUND ON OPTIMUM:  1520.000
+ ENUMERATION COMPLETE. BRANCHES=     0 PIVOTS=       2
+
+ LAST INTEGER SOLUTION IS THE BEST FOUND
+ RE-INSTALLING BEST SOLUTION...
+
+        OBJECTIVE FUNCTION VALUE
+
+        1)      1520.000
+
+  VARIABLE        VALUE          REDUCED COST
+       MXA        60.000000        -20.000000
+       MXB        40.000000         -8.000000
+       MXC         0.000000         -3.000000
+
+
+       ROW   SLACK OR SURPLUS     DUAL PRICES
+        2)         0.000000          0.000000
+        3)         0.000000          0.000000
+        4)       140.000000          0.000000
+        5)        60.000000          0.000000
+        6)        40.000000          0.000000
+        7)         0.000000          0.000000
+
+ NO. ITERATIONS=       2
+ BRANCHES=    0 DETERM.=  1.000E    0
