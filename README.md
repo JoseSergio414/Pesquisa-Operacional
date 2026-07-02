@@ -37,9 +37,9 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 * **Arquivo:** [[Minimização](./Planilhas_Excel/AULA_4.xlsx)]
 * **Ferramenta:** MS Excel (Suplemento Solver).
 
-### 3. [Adicione outro problema que você resolveu, ex: Problema da Dieta / Alocação de Máquinas]
+### 3. Modelo de Pesquisa Operacional para Programação de Produção
 
-* **Objetivo:** [Descreva o objetivo matemático da planilha]
+* **Objetivo:**Encontrar o Mix de Produção Otimizado para determinar a quantidade exata a ser fabricada de três produtos diferentes, com o propósito de maximizar o lucro líquido total da operação. A planilha calcula automaticamente o cenário financeiro ideal, garantindo que a empresa obtenha o maior retorno financeiro possível a partir de sua estrutura atual.
 * 
 <img width="816" height="725" alt="image" src="https://github.com/user-attachments/assets/419e8c56-0799-4ad1-9e0e-b4d20a0559b5" />
 
