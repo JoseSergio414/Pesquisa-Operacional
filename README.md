@@ -60,6 +60,10 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 
 > Vídeo
 
+https://github.com/JoseSergio414/Pesquisa-Operacional/blob/main/Planilhas_Excel/Gravando%202026-07-01%20224459.mp4
+
+
+
 https://github.com/user-attachments/assets/65c06316-00ee-4570-9221-ad4cb77cfa30
 
 
