@@ -1,11 +1,3 @@
-
-
-https://github.com/user-attachments/assets/72e93b7e-4861-49e9-9f82-8fb09b3923b3
-
-
-
-https://github.com/user-attachments/assets/da965a65-1e72-4c4f-ac41-05a8f0f7b872
-
 # 📈 Modelagem e Pesquisa Operacional na Indústria
 
 ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-F2C811?style=for-the-badge)
