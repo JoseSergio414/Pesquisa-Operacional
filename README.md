@@ -26,7 +26,9 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 
 <img width="643" height="761" alt="image" src="https://github.com/user-attachments/assets/92aa6b5a-e05c-468a-8fd7-5f4ff40a7cac" />
 
-* **[![Planilha: Maximização](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)**
+* **Planilha: Maximização**
+  
+* **[![Arquivo](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)**
 * **Ferramenta:** MS Excel (Suplemento Solver).
 
 ### 2. Minimização de Custos Logísticos (Problema do Transporte)
@@ -34,7 +36,9 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 * **Objetivo:** Definir a rota mais barata para distribuir produtos de múltiplas fábricas para múltiplos centros de distribuição, atendendo à demanda exata de cada cliente.
 <img width="982" height="754" alt="image" src="https://github.com/user-attachments/assets/fb72bdbf-beb5-46fc-9908-90bfd02b225e" />
 
-* **[![Planilha: Minimização](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/AULA_4.xlsx)**
+* **Planilha: Minimização**
+  
+* **[![Arquivo](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/AULA_4.xlsx)**
 * **Ferramenta:** MS Excel (Suplemento Solver).
 
 ### 3. Modelo de Pesquisa Operacional para Programação de Produção
@@ -43,7 +47,9 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 * 
 <img width="816" height="725" alt="image" src="https://github.com/user-attachments/assets/419e8c56-0799-4ad1-9e0e-b4d20a0559b5" />
 
-* **[![Planilha: Maximização](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)**
+* **Planilha: Maximização**
+
+* **[![Arquivo](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)**
   
 * **Ferramenta:** MS Excel (Suplemento Solver).
   
