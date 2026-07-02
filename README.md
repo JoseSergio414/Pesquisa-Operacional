@@ -25,7 +25,7 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 
 <img width="643" height="761" alt="image" src="https://github.com/user-attachments/assets/92aa6b5a-e05c-468a-8fd7-5f4ff40a7cac" />
 
-* **Arquivo:** [[Minimização](./Planilhas_Excel/AULA_4.xlsx)]
+* **Arquivo:** [[Maximização](./Planilhas_Excel/AULA_4.xlsx)]
 * **Ferramenta:** MS Excel (Suplemento Solver).
 
 ### 2. Minimização de Custos Logísticos (Problema do Transporte)
