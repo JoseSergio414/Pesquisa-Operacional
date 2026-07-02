@@ -58,9 +58,10 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 
 ## 🖼️ Demonstração Visual
 
-> *(Nota: Insira aqui capturas de tela das suas planilhas rodando o Solver ou dos gráficos de resultado. Isso ajuda recrutadores a visualizarem seu trabalho sem precisarem baixar os arquivos).*
+> Vídeo
 
-[Substitua este texto por uma imagem da sua planilha de Mix de Produção]
+https://github.com/user-attachments/assets/65c06316-00ee-4570-9221-ad4cb77cfa30
+
 
 ---
 *Projetos desenvolvidos para aplicação prática em Planejamento e Controle da Produção (PCP).*
