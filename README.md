@@ -34,7 +34,7 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 * **Objetivo:** Definir a rota mais barata para distribuir produtos de múltiplas fábricas para múltiplos centros de distribuição, atendendo à demanda exata de cada cliente.
 <img width="982" height="754" alt="image" src="https://github.com/user-attachments/assets/fb72bdbf-beb5-46fc-9908-90bfd02b225e" />
 
-* **Arquivo:** [[Minimização](./Planilhas_Excel/AULA_4.xlsx)]
+* **[Arquivo: Minimização](./Planilhas_Excel/AULA_4.xlsx)**
 * **Ferramenta:** MS Excel (Suplemento Solver).
 
 ### 3. Modelo de Pesquisa Operacional para Programação de Produção
