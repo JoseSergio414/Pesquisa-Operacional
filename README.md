@@ -26,7 +26,7 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 
 <img width="643" height="761" alt="image" src="https://github.com/user-attachments/assets/92aa6b5a-e05c-468a-8fd7-5f4ff40a7cac" />
 
-* **Planilha: Maximização**[![Arquivo](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)
+* **[Planilha: Maximização**[![Arquivo](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)]
 
 * **Ferramenta:** MS Excel (Suplemento Solver).
 
