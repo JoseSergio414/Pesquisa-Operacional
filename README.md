@@ -30,6 +30,7 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 
 [![Arquivo](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)
 [![Arquivo](https://img.shields.io/badge/Software_Lindo-000080?style=for-the-badge)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)
+
 * **Ferramenta:** MS Excel (Suplemento Solver).
 
 ### 2. Minimização de Custos Logísticos (Problema do Transporte)
@@ -41,6 +42,7 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 * **Planilha: Minimização**
   
 [![Arquivo](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/AULA_4.xlsx)
+[![Arquivo](https://img.shields.io/badge/Software_Lindo-000080?style=for-the-badge)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)
 
 * **Ferramenta:** MS Excel (Suplemento Solver).
 
@@ -53,7 +55,8 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 * **Planilha: Maximização**
 
 [![Arquivo](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)
-  
+[![Arquivo](https://img.shields.io/badge/Software_Lindo-000080?style=for-the-badge)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)
+
 * **Ferramenta:** MS Excel (Suplemento Solver).
   
 ---
