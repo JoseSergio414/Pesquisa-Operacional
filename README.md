@@ -78,12 +78,12 @@ https://github.com/user-attachments/assets/ddc91841-f889-4b50-b278-d7f89418122b
 
 ---
 
-## 🗺️ Visualização da apresentação, Pesquisa sobre a Máteria Pesquisa Operacional
+## 🗺️ Visualização da Apresentação, Introdução a Pesquisa Operacional
 
 [![Apresentação](https://img.shields.io/badge/VER_APRESENTAÇÃO-E3000F?style=for-the-badge&logo=googledocs&logoColor=white)](./Trabalhos_Apresentações/Pesquisa_Operacional_Blueprint_definitiva.pdf)
 
 
-## 🗺️ Visualização da apresentação, Pesquisa sobre o Problema de transporte em pesquisa operacional
+## 🗺️ Visualização da Apresentação, Pesquisa sobre o Problema de transporte em Pesquisa Operacional
 
 [![Apresentação Pessoal](https://img.shields.io/badge/VER_APRESENTAÇÃO-E3000F?style=for-the-badge&logo=googledocs&logoColor=white)](./Trabalhos_Apresentações/José_sergio_e_Anderson_Santos_Problema_de_transporte_na_po20_06.pdf)
 
