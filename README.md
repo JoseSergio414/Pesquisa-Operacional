@@ -38,9 +38,13 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 * **Ferramenta:** MS Excel (Suplemento Solver).
 
 ### 3. [Adicione outro problema que você resolveu, ex: Problema da Dieta / Alocação de Máquinas]
-* **Objetivo:** [Descreva o objetivo matemático da planilha]
-* **Arquivo:** `[Nome_do_arquivo.xlsx]`
 
+* **Objetivo:** [Descreva o objetivo matemático da planilha]
+* 
+<img width="816" height="725" alt="image" src="https://github.com/user-attachments/assets/419e8c56-0799-4ad1-9e0e-b4d20a0559b5" />
+
+* **Arquivo:** [[Maximização](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)]
+* **Ferramenta:** MS Excel (Suplemento Solver).
 ---
 
 ## 🛠️ Metodologia e Ferramentas
