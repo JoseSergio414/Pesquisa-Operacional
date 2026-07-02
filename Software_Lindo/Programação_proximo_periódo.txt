@@ -1,0 +1,53 @@
+
+ LP OPTIMUM FOUND AT STEP      3
+ OBJECTIVE VALUE =   1380000.00
+
+
+ NEW INTEGER SOLUTION OF    1380000.00     AT BRANCH      0 PIVOT       3
+ BOUND ON OPTIMUM:  1380000.
+Max 2100P1+1200P2+600P3
+
+subject to
+
+6P1+4P2+6P3<=4800
+12P1+6P2+2P3<=7200
+P1<=800
+P2<=600
+P3<=600
+P1>=0
+P2>=0
+P3>=0
+
+end
+
+gin 3 
+
+
+
+ENUMERATION COMPLETE. BRANCHES=     0 PIVOTS=       3
+
+ LAST INTEGER SOLUTION IS THE BEST FOUND
+ RE-INSTALLING BEST SOLUTION...
+
+        OBJECTIVE FUNCTION VALUE
+
+        1)      1380000.
+
+  VARIABLE        VALUE          REDUCED COST
+        P1       280.000000      -2100.000000
+        P2       600.000000      -1200.000000
+        P3       120.000000       -600.000000
+
+
+       ROW   SLACK OR SURPLUS     DUAL PRICES
+        2)         0.000000          0.000000
+        3)         0.000000          0.000000
+        4)       520.000000          0.000000
+        5)         0.000000          0.000000
+        6)       480.000000          0.000000
+        7)       280.000000          0.000000
+        8)       600.000000          0.000000
+        9)       120.000000          0.000000
+
+ NO. ITERATIONS=       3
+ BRANCHES=    0 DETERM.=  1.000E    0
