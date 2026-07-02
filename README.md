@@ -85,7 +85,7 @@ https://github.com/user-attachments/assets/ddc91841-f889-4b50-b278-d7f89418122b
 
 ## 🗺️ Visualização da apresentação, Pesquisa sobre o Problema de transporte em pesquisa operacional
 
-[![Apresentação Pessoal](https://img.shields.io/badge/VER_APRESENTAÇÃO-E3000F?style=for-the-badge&logo=googledocs&logoColor=white)](./Trabalhos_Apresentações/Problema%20de%20Transporte%20na%20Pesquisa%20Operacional.pdf)
+[![Apresentação Pessoal](https://img.shields.io/badge/VER_APRESENTAÇÃO-E3000F?style=for-the-badge&logo=googledocs&logoColor=white)](./Trabalhos_Apresentações/José_sergio_e_Anderson_Santos_Problema_de_transporte_na_ po20_06.pdf)
 
 ---
 *Projetos desenvolvidos para aplicação prática em Planejamento e Controle da Produção (PCP).*
