@@ -16,6 +16,15 @@ O objetivo principal destas planilhas e estudos é aplicar técnicas de **Progra
 
 ---
 
+## 🛠️ Metodologia e Ferramentas
+
+* **Modelagem Algébrica:** Definição clara de Variáveis de Decisão, Função Objetivo e Restrições.
+* **Microsoft Excel:** Utilização avançada de planilhas para estruturação de dados matriciais.
+* **Solver:** Algoritmo Simplex LP aplicado para resolução de problemas de programação linear e otimização.
+* **Software Lindo:** (Linear, Interactive, and Discrete Optimizer) é um software voltado para a resolução de problemas de otimização matemática.
+
+---
+
 ## 🧮 Modelos e Planilhas Desenvolvidas
 
 Abaixo estão os principais modelos matemáticos e simuladores construídos neste repositório:
@@ -59,15 +68,6 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 
 * **Ferramenta:** MS Excel (Suplemento Solver), Software (LINDO).
   
----
-
-## 🛠️ Metodologia e Ferramentas
-
-* **Modelagem Algébrica:** Definição clara de Variáveis de Decisão, Função Objetivo e Restrições.
-* **Microsoft Excel:** Utilização avançada de planilhas para estruturação de dados matriciais.
-* **Solver:** Algoritmo Simplex LP aplicado para resolução de problemas de programação linear e otimização.
-* **Software Lindo:** (Linear, Interactive, and Discrete Optimizer) é um software voltado para a resolução de problemas de otimização matemática.
-
 ---
 
 ## 🖼️ Demonstração Visual
