@@ -28,28 +28,31 @@ Abaixo estão os principais modelos matemáticos e simuladores construídos nest
 
 * **Planilha: Maximização**
   
-* **[![Arquivo](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)**
+**[![Arquivo](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)**
+
 * **Ferramenta:** MS Excel (Suplemento Solver).
 
 ### 2. Minimização de Custos Logísticos (Problema do Transporte)
 
 * **Objetivo:** Definir a rota mais barata para distribuir produtos de múltiplas fábricas para múltiplos centros de distribuição, atendendo à demanda exata de cada cliente.
+
 <img width="982" height="754" alt="image" src="https://github.com/user-attachments/assets/fb72bdbf-beb5-46fc-9908-90bfd02b225e" />
 
 * **Planilha: Minimização**
   
-* **[![Arquivo](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/AULA_4.xlsx)**
+**[![Arquivo](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/AULA_4.xlsx)**
+
 * **Ferramenta:** MS Excel (Suplemento Solver).
 
 ### 3. Modelo de Pesquisa Operacional para Programação de Produção
 
 * **Objetivo:** Encontrar o Mix de Produção Otimizado para determinar a quantidade exata a ser fabricada de três produtos diferentes, com o propósito de maximizar o lucro líquido total da operação. A planilha calcula automaticamente o cenário financeiro ideal, garantindo que a empresa obtenha o maior retorno financeiro possível a partir de sua estrutura atual.
-* 
+
 <img width="816" height="725" alt="image" src="https://github.com/user-attachments/assets/419e8c56-0799-4ad1-9e0e-b4d20a0559b5" />
 
 * **Planilha: Maximização**
 
-* **[![Arquivo](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)**
+**[![Arquivo](https://img.shields.io/badge/Microsoft_Excel_(Solver)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](./Planilhas_Excel/Pesquisa%20operacional%20aula%202.xlsx)**
   
 * **Ferramenta:** MS Excel (Suplemento Solver).
   
